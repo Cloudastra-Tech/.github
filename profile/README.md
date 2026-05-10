@@ -19,7 +19,7 @@
 
 ### Discover&nbsp;&nbsp;•&nbsp;&nbsp;Build&nbsp;&nbsp;•&nbsp;&nbsp;Grow
 
-**Enterprise-grade AI platforms for FinTech, Healthcare, Travel, Cybersecurity, and beyond.**
+**Enterprise-grade AI platforms for FinTech, Travel, and beyond.**
 
 [![Website](https://img.shields.io/badge/cloudastra.co-058BF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudastra.co)
 [![Book a demo](https://img.shields.io/badge/Book%20a%20demo-055DFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@cloudastra.co?subject=Cloudastra%20demo%20request)
@@ -32,7 +32,7 @@
 
 ## What we build
 
-Cloudastra is a **fintech-first, multi-vertical software company** building AI-native platforms for regulated industries. We pair a 100+ engineering team with a deep stack — GenAI & LLM orchestration, autonomous agent frameworks, computer vision, and data engineering — to ship products that move enterprise metrics, not just dashboards.
+Cloudastra is a **fintech-first, multi-vertical software company** building AI-native platforms for regulated industries. We pair a 100+ engineering team with a deep stack — GenAI & LLM orchestration, autonomous agent frameworks, computer vision, and data engineering to ship products that move enterprise metrics, not just dashboards.
 
 Our customers are NBFCs, insurers, travel operators, hospitals, and fraud teams who need software that understands their domain on day one — not generic SaaS retrofitted with a chatbot.
 
@@ -47,9 +47,9 @@ Nine production platforms, shipping today across seven industries.
 | Product | What it does |
 |---|---|
 | **[DebtPulse](https://cloudastra.co/products/debtpulse)** &nbsp;`FinTech` | AI-powered digital collections for NBFCs and fintech lenders — prioritise high-risk accounts, automate compliant outreach, lift recovery rates by **35%**. |
-| **[RiskIntel](https://cloudastra.co/products/riskintel)** &nbsp;`Risk Mgmt` | End-to-end risk platform — credit scoring, portfolio analysis, and **15+** built-in risk models for data-driven decisioning. |
+| **[RiskIntel](https://cloudastra.co/products/riskintel)** &nbsp;`Risk Mgmt` | AI-powered sanctions flag risky borrowers, expose hidden director networks, cut compliance review time by 70% |
 | **[Revinu](https://cloudastra.co/products/revinu)** &nbsp;`Payments` | Intelligent payment recovery — detects failed payments, classifies root causes, and triggers smart retries to recover revenue you'd written off. |
-| **[SecureFlow](https://cloudastra.co/products/secure-flow)** &nbsp;`Cybersecurity` | High-throughput fraud detection pipeline — millions of transactions per second at sub-millisecond latency. |
+| **[SecureFlow](https://cloudastra.co/products/secure-flow)** &nbsp;`Fraud Preventions, Compliance` | High-throughput fraud detection pipeline — millions of transactions per second at sub-millisecond latency. |
 
 ### AI & Automation
 
@@ -72,7 +72,7 @@ Nine production platforms, shipping today across seven industries.
 
 ## Industries we serve
 
-`FinTech & Banking` &nbsp; `Healthcare` &nbsp; `Travel & Hospitality` &nbsp; `Cybersecurity` &nbsp; `AI & Machine Learning` &nbsp; `Clean Energy` &nbsp; `Compliance & RegTech`
+`FinTech & Banking` &nbsp; `Travel & Hospitality` &nbsp; `Cybersecurity` &nbsp; `AI & Machine Learning` &nbsp; `Clean Energy` &nbsp; `Compliance & RegTech`
 
 ---
 
