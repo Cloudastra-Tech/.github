@@ -1,5 +1,5 @@
 <!--
-  Cloudastra Technologies — GitHub organization profile README
+  Cloudastra Technologies: GitHub organization profile README
   Deploy by committing this file to:  github.com/Cloudastra-Tech/.github  →  profile/README.md
 
   This is a DRAFT for review. Things to verify before publishing:
@@ -32,9 +32,9 @@
 
 ## What we build
 
-Cloudastra is a **fintech-first, multi-vertical software company** building AI-native platforms for regulated industries. We pair a 100+ engineering team with a deep stack — GenAI & LLM orchestration, autonomous agent frameworks, computer vision, and data engineering to ship products that move enterprise metrics, not just dashboards.
+Cloudastra is a **fintech-first, multi-vertical software company** building AI-native platforms for regulated industries. We pair a 100+ engineering team with a deep stack (GenAI & LLM orchestration, autonomous agent frameworks, computer vision, and data engineering) to ship products that move enterprise metrics, not just dashboards.
 
-Our customers are NBFCs, insurers, travel operators, hospitals, and fraud teams who need software that understands their domain on day one — not generic SaaS retrofitted with a chatbot.
+Our customers are NBFCs, insurers, travel operators, hospitals, and fraud teams who need software that understands their domain on day one, not generic SaaS retrofitted with a chatbot.
 
 ---
 
@@ -46,23 +46,23 @@ Nine production platforms, shipping today across seven industries.
 
 | Product | What it does |
 |---|---|
-| **[DebtPulse](https://cloudastra.co/products/debtpulse)** &nbsp;`FinTech` | AI-powered digital collections for NBFCs and fintech lenders — prioritise high-risk accounts, automate compliant outreach, lift recovery rates by **35%**. |
+| **[DebtPulse](https://cloudastra.co/products/debtpulse)** &nbsp;`FinTech` | AI-powered digital collections for NBFCs and fintech lenders. Prioritise high-risk accounts, automate compliant outreach, lift recovery rates by **35%**. |
 | **[RiskIntel](https://cloudastra.co/products/riskintel)** &nbsp;`Risk Mgmt` | AI-powered sanctions flag risky borrowers, expose hidden director networks, cut compliance review time by 70% |
-| **[Revinu](https://cloudastra.co/products/revinu)** &nbsp;`Payments` | Intelligent payment recovery — detects failed payments, classifies root causes, and triggers smart retries to recover revenue you'd written off. |
-| **[SecureFlow](https://cloudastra.co/products/secure-flow)** &nbsp;`Fraud Preventions, Compliance` | High-throughput fraud detection pipeline — millions of transactions per second at sub-millisecond latency. |
+| **[Revinu](https://cloudastra.co/products/revinu)** &nbsp;`Payments` | Intelligent payment recovery that detects failed payments, classifies root causes, and triggers smart retries to recover revenue you'd written off. |
+| **[SecureFlow](https://cloudastra.co/products/secure-flow)** &nbsp;`Fraud Preventions, Compliance` | High-throughput fraud detection pipeline handling millions of transactions per second at sub-millisecond latency. |
 
 ### AI & Automation
 
 | Product | What it does |
 |---|---|
-| **Integra-AI** &nbsp;`AI Platform` | Unified AI chat with a BYO-key model — connect GPT-4, Claude, DeepSeek and more in a single conversation-style interface. |
-| **Nigmabot AI** &nbsp;`Automation` | AI agent for business operations — automates repetitive workflows and answers questions grounded in your company data. |
+| **Integra-AI** &nbsp;`AI Platform` | Unified AI chat with a BYO-key model. Connect GPT-4, Claude, DeepSeek and more in a single conversation-style interface. |
+| **Nigmabot AI** &nbsp;`Automation` | AI agent for business operations that automates repetitive workflows and answers questions grounded in your company data. |
 
 ### Vertical SaaS
 
 | Product | What it does |
 |---|---|
-| **[iPreferAir](https://cloudastra.co/products/b2b-travel)** &nbsp;`Travel Tech` | B2B travel booking platform — real-time inventory, advanced agent tooling, and **3× faster booking** for travel agencies worldwide. |
+| **[iPreferAir](https://cloudastra.co/products/b2b-travel)** &nbsp;`Travel Tech` | B2B travel booking platform with real-time inventory, advanced agent tooling, and **3× faster booking** for travel agencies worldwide. |
 | **MedAI** &nbsp;`HealthTech` | AI-assisted medical diagnosis combining clinical-grade architecture with explainable predictions for clinicians. |
 | **Aquaflowz** &nbsp;`CleanTech` | Real-time water quality monitoring with predictive insights and automated alerting for utilities and industrial operators. |
 
@@ -70,7 +70,7 @@ Nine production platforms, shipping today across seven industries.
 
 | Actor | What it does |
 |---|---|
-| **[Company Lookalike Finder](https://apify.com/cloudastra-technologies/company-lookalike-finder)** &nbsp;`Sales Data` | Find similar companies from 1–10 seed domains — a ranked lookalike list for prospecting and account building, with the source evidence on every row. |
+| **[Company Lookalike Finder](https://apify.com/cloudastra-technologies/company-lookalike-finder)** &nbsp;`Sales Data` | Find similar companies from 1–10 seed domains: a ranked lookalike list for prospecting and account building, with the source evidence on every row. |
 
 > **See the full portfolio →** [cloudastra.co/products](https://cloudastra.co/products) &nbsp;·&nbsp; **All our Actors →** [apify.com/cloudastra-technologies](https://apify.com/cloudastra-technologies)
 
@@ -99,7 +99,7 @@ We fix what we use. Our engineers contribute upstream to **[Odoo](https://github
 
 ## Where to find us
 
-We're rolling out our products and integrations to the platforms you already use. Whether you live in your IDE, your workflow tool, or your cloud console — Cloudastra is meeting you there.
+We're rolling out our products and integrations to the platforms you already use. Whether you live in your IDE, your workflow tool, or your cloud console, Cloudastra is meeting you there.
 
 <table>
 <tr>
@@ -142,7 +142,7 @@ We're rolling out our products and integrations to the platforms you already use
 - Freshworks Marketplace
 - WordPress.org Plugins
 - n8n Creator Hub · Pipedream
-- ✅ [Apify Store](https://apify.com/cloudastra-technologies) — live
+- ✅ [Apify Store](https://apify.com/cloudastra-technologies) (live)
 - Razorpay App Store
 
 </td>
@@ -155,10 +155,10 @@ We're rolling out our products and integrations to the platforms you already use
 
 ## How we ship
 
-- **Discovery & Strategy** — deep-dive into business requirements, user personas, market landscape, technical constraints.
-- **Architecture & Design** — domain-modelled from day one for the regulated industries we serve.
-- **Build & Iterate** — modern stack, AI-native, shipped in production-grade increments.
-- **Scale & Operate** — **99.9%** platform uptime backed by an in-house SRE practice.
+- **Discovery & Strategy:** deep-dive into business requirements, user personas, market landscape, technical constraints.
+- **Architecture & Design:** domain-modelled from day one for the regulated industries we serve.
+- **Build & Iterate:** modern stack, AI-native, shipped in production-grade increments.
+- **Scale & Operate:** **99.9%** platform uptime backed by an in-house SRE practice.
 
 ---
 
