@@ -66,7 +66,27 @@ Nine production platforms, shipping today across seven industries.
 | **MedAI** &nbsp;`HealthTech` | AI-assisted medical diagnosis combining clinical-grade architecture with explainable predictions for clinicians. |
 | **Aquaflowz** &nbsp;`CleanTech` | Real-time water quality monitoring with predictive insights and automated alerting for utilities and industrial operators. |
 
-> **See the full portfolio →** [cloudastra.co/products](https://cloudastra.co/products)
+### Data Actors on Apify
+
+| Actor | What it does |
+|---|---|
+| **[Company Lookalike Finder](https://apify.com/cloudastra-technologies/company-lookalike-finder)** &nbsp;`Sales Data` | Find similar companies from 1–10 seed domains — a ranked lookalike list for prospecting and account building, with the source evidence on every row. |
+
+> **See the full portfolio →** [cloudastra.co/products](https://cloudastra.co/products) &nbsp;·&nbsp; **All our Actors →** [apify.com/cloudastra-technologies](https://apify.com/cloudastra-technologies)
+
+---
+
+## Open source
+
+We fix what we use. Recent upstream contributions to **[Odoo](https://github.com/odoo/odoo)**:
+
+| Fix | Branch | Status |
+|---|---|---|
+| [`[FIX] stock_account: one valuation entry per company and partner`](https://github.com/odoo/odoo/pull/292821) | 19.0 | ✅ Merged — [`c33ec71`](https://github.com/odoo/odoo/commit/c33ec7199a) |
+| [`[FIX] base: only reuse writable attachments in create_unique`](https://github.com/odoo/odoo/pull/293705) | 18.0, 19.0 | ✅ Merged — [`fe6e577`](https://github.com/odoo/odoo/commit/fe6e577fae) |
+| [`[FIX] account_payment: only post invoices of confirmed transactions`](https://github.com/odoo/odoo/pull/292820) | 18.0 | 🔄 In review |
+
+<sub>Odoo merges through its own bot ([robodoo](https://mergebot.odoo.com)), so merged PRs show as "Closed" on GitHub — the commit links above are the landed changes.</sub>
 
 ---
 
@@ -121,7 +141,8 @@ We're rolling out our products and integrations to the platforms you already use
 - Freshworks Marketplace
 - WordPress.org Plugins
 - n8n Creator Hub · Pipedream
-- Apify Store · Razorpay App Store
+- ✅ [Apify Store](https://apify.com/cloudastra-technologies) — live
+- Razorpay App Store
 
 </td>
 </tr>
