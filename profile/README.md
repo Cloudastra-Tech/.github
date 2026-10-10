@@ -78,15 +78,16 @@ Nine production platforms, shipping today across seven industries.
 
 ## Open source
 
-We fix what we use. Recent upstream contributions to **[Odoo](https://github.com/odoo/odoo)**:
+We fix what we use. Our engineers contribute upstream to **[Odoo](https://github.com/odoo/odoo)**, the **[OCA](https://github.com/OCA)** and the wider Odoo tooling ecosystem.
 
-| Fix | Branch | Status |
-|---|---|---|
-| [`[FIX] stock_account: one valuation entry per company and partner`](https://github.com/odoo/odoo/pull/292821) | 19.0 | ✅ Merged — [`c33ec71`](https://github.com/odoo/odoo/commit/c33ec7199a) |
-| [`[FIX] base: only reuse writable attachments in create_unique`](https://github.com/odoo/odoo/pull/293705) | 18.0, 19.0 | ✅ Merged — [`fe6e577`](https://github.com/odoo/odoo/commit/fe6e577fae) |
-| [`[FIX] account_payment: only post invoices of confirmed transactions`](https://github.com/odoo/odoo/pull/292820) | 18.0 | 🔄 In review |
+[![Open-source PRs](https://img.shields.io/github/issues-search?query=type%3Apr%20author%3Aravikscode%20author%3Ajaydev-CAstra%20-org%3ACloudastra-Tech%20-user%3Aravikscode%20-user%3Ajaydev-CAstra&label=open-source%20PRs&style=for-the-badge&color=058BF0)](https://github.com/search?q=type%3Apr+author%3Aravikscode+author%3Ajaydev-CAstra+-org%3ACloudastra-Tech+-user%3Aravikscode+-user%3Ajaydev-CAstra&type=pullrequests&s=created&o=desc)
 
-<sub>Odoo merges through its own bot ([robodoo](https://mergebot.odoo.com)), so merged PRs show as "Closed" on GitHub — the commit links above are the landed changes.</sub>
+**[See every pull request, live →](https://github.com/search?q=type%3Apr+author%3Aravikscode+author%3Ajaydev-CAstra+-org%3ACloudastra-Tech+-user%3Aravikscode+-user%3Ajaydev-CAstra&type=pullrequests&s=created&o=desc)**
+
+<!-- Live: the badge count and the search link update on their own as PRs are opened and merged.
+     Only edit when a team member joins or leaves: add/remove `author:<login>` AND `-user:<login>` in BOTH URLs above. -->
+
+<sub>Odoo merges through its own bot ([robodoo](https://mergebot.odoo.com)), so merged Odoo PRs show as "Closed" on GitHub.</sub>
 
 ---
 
