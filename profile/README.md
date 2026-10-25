@@ -22,7 +22,7 @@
 **Enterprise-grade AI platforms for FinTech, Travel, and beyond.**
 
 [![Website](https://img.shields.io/badge/cloudastra.co-058BF0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudastra.co)
-[![Book a demo](https://img.shields.io/badge/Book%20a%20demo-055DFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@cloudastra.co?subject=Cloudastra%20demo%20request)
+[![Book a demo](https://img.shields.io/badge/Book%20a%20demo-055DFF?style=for-the-badge)](https://orufybookings.com/cloudastra-technologies)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cloudastra-technologies)
 [![Products](https://img.shields.io/badge/Products-011524?style=for-the-badge)](https://cloudastra.co/products)
 
@@ -183,7 +183,7 @@ We exist for one reason: **to ship software that earns its place in your stack.*
 
 <br>
 
-**Have a problem worth solving?** &nbsp;[**Book a demo →**](mailto:contact@cloudastra.co?subject=Cloudastra%20demo%20request)
+**Have a problem worth solving?** &nbsp;[**Book a demo →**](https://orufybookings.com/cloudastra-technologies)
 
 <sub>© Cloudastra Technologies. Discover. Build. Grow.</sub>
 
